@@ -1,12 +1,12 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/parzivalhaliday/parzivalhaliday/img/waving.gif">, I'm Parzi</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/parzivalhaliday/parzivalhaliday/blob/main/img/waving.gif">, I'm Parzi</h1>
 <h4 align="center">backend developer, student and gamer.
 </h4>
 </div>
 
 <div align="center">
   <a href="https://parzivalhaliday.github.io/parzival/">
-  <img  src="https://github.com/parzivalhaliday/parzivalhaliday/img/waving.gif"
+  <img  src="https://github.com/parzivalhaliday/parzivalhaliday/blob/main/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
