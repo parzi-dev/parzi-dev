@@ -2,9 +2,8 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/parzivalhaliday/parzivalhaliday/blob/main/img/waving.gif">, I'm Parzi</h1>
 <h4 align="center">backend developer, student and gamer.
 </h4>
-[![Discord Presence](https://lanyard.cnrad.dev/api/491384140068028417)](https://discord.com/users/491384140068028417)
 </div>
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/491384140068028417)](https://discord.com/users/491384140068028417)
 <div align="center">
   <a href="https://parzivalhaliday.github.io/parzival/">
   <img  src="https://github.com/parzivalhaliday/parzivalhaliday/blob/main/img/grid-snake.svg"
