@@ -8,9 +8,9 @@
   <img  src="https://github.com/parzivalhaliday/parzivalhaliday/blob/main/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+  [![Discord Presence](https://lanyard.cnrad.dev/api/491384140068028417)](https://discord.com/users/491384140068028417)
 
 <details>
-  [![Discord Presence](https://lanyard.cnrad.dev/api/491384140068028417)](https://discord.com/users/491384140068028417)
 
   <summary>☎️ iletşim adresleri</summary>
 <div>
