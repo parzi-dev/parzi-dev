@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/865648010390405146?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=40px)](https://discord.com/users/865648010390405146)
+[![Discord Presence](https://lanyard.cnrad.dev/api/491384140068028417)](https://discord.com/users/491384140068028417)
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/parzivalhaliday/parzivalhaliday/blob/main/img/waving.gif">, I'm Parzi</h1>
