@@ -1,9 +1,5 @@
 </div class="discord"> [![Discord Presence](https://lanyard.cnrad.dev/api/491384140068028417)](https://discord.com/users/491384140068028417)</div>
-.discord {
-          text-align: center;
 
- 
-}
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/parzivalhaliday/parzivalhaliday/blob/main/img/waving.gif">, I'm Parzi</h1>
 <h4 align="center">backend developer, student and gamer.
