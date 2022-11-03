@@ -2,6 +2,8 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/parzivalhaliday/parzivalhaliday/blob/main/img/waving.gif">, I'm Parzi</h1>
 <h4 align="center">backend developer, student and gamer.
 </h4>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/491384140068028417?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=40px)](https://discord.com/users/491384140068028417)
+
 </div>
 
 <div align="center">
