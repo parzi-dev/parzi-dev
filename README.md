@@ -22,12 +22,7 @@
          alt="parzi" height="30"/></a>
       
     </p>
-    
-  </samp>
-  
-    <samp>
-    <h2 align="center">sosyal medya</h2>
-    <p align="center">
+     <p align="left">
       <br/>
       <a href="https://twitter.com/parzivalhaliday" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-%293462.svg?style=for-the-badge&logo=twitter&logoColor=white"
@@ -36,6 +31,8 @@
     </p>
     
   </samp>
+  
+  
 </div>
   
 </details>
