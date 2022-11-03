@@ -3,7 +3,7 @@
 <h4 align="center">backend developer, student and gamer.
 </h4>
 </div>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/865648010390405146?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=40px)](https://discord.com/users/865648010390405146)
+<div> https://lanyard.cnrad.dev/api/491384140068028417</div>
 <div align="center">
   <a href="https://parzivalhaliday.github.io/parzival/">
   <img  src="https://github.com/parzivalhaliday/parzivalhaliday/blob/main/img/grid-snake.svg"
