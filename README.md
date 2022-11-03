@@ -21,6 +21,13 @@
          src="https://img.shields.io/badge/twitter-%293462.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="parzi" height="30"/></a>
     </p>
+    
+     <p align="center">
+      <br/>
+      <a href="https://discord.com/users/491384140068028417" target="blank"><img align="center"
+         src="https://img.shields.io/badge/discord-%293462.svg?style=for-the-badge&logo=discord&logoColor=red"
+         alt="parzi" height="30"/></a>
+    </p>
   </samp>
 </div>
   
