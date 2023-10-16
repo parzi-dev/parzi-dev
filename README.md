@@ -32,7 +32,7 @@
 </details>
 
 
-  [![Discord Presence](https://lanyard.cnrad.dev/api/491384140068028417)](https://discord.com/users/1013951210035875882)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1013951210035875882)](https://discord.com/users/1013951210035875882)
 
 
 
