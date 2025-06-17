@@ -1,12 +1,10 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/parzivalhaliday/parzivalhaliday/blob/main/img/waving.gif">, I'm Parzi</h1>
-<h4 align="center">backend developer, student and gamer.
+<h1 align="center">HiI'm Parzi</h1>
+<h4 align="center">backend developer
 </h4>
 </div>
 <div align="center">
-  <a href="https://parzivalhaliday.github.io/parzival/">
-  <img  src="https://github.com/parzivalhaliday/parzivalhaliday/blob/main/img/grid-snake.svg"
-       alt="snake" /></a>
+  <a href="https://parzi.dev/"></a>
 </div>
 
 <details>
@@ -42,21 +40,10 @@
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/parzivalhaliday/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
-        </p>
-        <p align="center">
           <a href="https://github.com/1999AZZAR/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzivalhaliday&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" />
       
-      
+  
   </div>    
-</details>
-
-<details>
-  <summary>📈 Son yaptıklarım</summary>
-  <br/>
-  <h2 align="center"> Parzivalhaliday</h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=parzivalhaliday&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
