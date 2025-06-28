@@ -15,7 +15,7 @@
     <h2 align="center">sosyal medya</h2>
     <p align="center">
       <br/>
-      <a href="https://twitter.com/parzivalhaliday" target="blank"><img align="center"
+      <a href="https://twitter.com/parzidev" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-%293462.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="parzi" height="30"/></a>
       
@@ -41,7 +41,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzivalhaliday&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parzi-dev&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" />
       
   
   </div>    
