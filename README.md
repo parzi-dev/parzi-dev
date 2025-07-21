@@ -9,10 +9,9 @@
 
 <details>
 
-  <summary>☎️ iletşim adresleri</summary>
 <div>
   <samp>
-    <h2 align="center">sosyal medya</h2>
+    <h2 align="center">social</h2>
     <p align="center">
       <br/>
       <a href="https://twitter.com/parzidev" target="blank"><img align="center"
